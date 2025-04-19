@@ -1,0 +1,29 @@
+# Ignore build and anything else related directory
+build/
+bin/
+lib/
+
+#Ignore devloper-specific files 
+images/
+
+# Ignore compiled object files
+*.o
+
+# Ignore executables
+*.exe
+*.out
+
+# Ignore static and shared libraries
+*.a
+*.so
+*.dll
+
+# Ignore IDE-specific files
+*.user
+.vscode/
+.idea/
+
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
