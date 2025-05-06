@@ -1,5 +1,5 @@
 :root {
-    --primary-background: #F5F5F5;
+    --primary-background: #f5f5f59e;
     /* Light gray for content areas */
     --header-background: #1A2A44;
     /* Dark navy blue for headers/footers */
@@ -33,13 +33,13 @@ body{
     margin:0;
     padding: 0;
     display: grid;
-    grid-template-columns:repeat(7 , 1fr) ;
+    grid-template-columns:repeat(5 , 1fr) ;
     grid-template-rows: auto 1fr 1fr auto;
     grid-template-areas: 
-    " hd  hd hd hd hd hd hd "
-    " sb1 mn mn mn mn mn mn "
-    " sb2 mn mn mn mn mn mn "
-    " ft  ft ft ft ft ft ft ";
+    " hd  hd hd hd hd  "
+    " sb1 mn mn mn mn  "
+    " sb2 mn mn mn mn  "
+    " ft  ft ft ft ft  ";
     background-color: var(--primary-background);
     color: var(--text-primary);
     font-size: 0.75rem;
@@ -71,6 +71,7 @@ header {
 
 #searchbar input,button{
     background-color:rgb(62, 62, 62);
+    border: 0.1rem solid white;
 }
 .headname {
     min-width: 2rem;
