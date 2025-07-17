@@ -2,7 +2,7 @@
 
 ### 🌐 Centralized Educational Platform for the Scouting Community
 
-**The Scout Information Bank** is an interactive online platform designed to collect, organize, and provide reliable educational content for scouts, leaders, and parents. Built with accessibility and engagement in mind, it offers multilingual resources, AI-powered search, and structured learning materials to support continuous growth within the scouting journey.
+**The Scout Information Bank** is an  online platform designed to collect, organize, and provide reliable educational content for scouts, leaders, and parents. Built with accessibility and engagement in mind, it offers multilingual resources, AI-powered search, and structured learning materials to support continuous growth within the scouting journey.
 
 ---
 
