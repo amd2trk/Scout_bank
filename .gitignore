@@ -4,9 +4,8 @@ bin/
 lib/
 
 #Ignore devloper-specific files 
-images/
 docs/
-
+not-used/
 
 # Ignore compiled object files
 *.o
