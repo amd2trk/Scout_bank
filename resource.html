@@ -49,17 +49,17 @@
     <main>
         <section class="hero p-5 border-bottom border-success">
             <h1 class="text-navy fs-1 title">The Scout Bank</h1>
-            <p class="text-muted p-1 text">Your source for all the scouting information <br> you will ever need</p>
-            <div class="search-bar">
-                <h4 class="text-navy text">Search by Title</h4>
-                <form class="d-flex " role="search">
-                    <input class=" text form-control me-2 rounded-pill border-navy  text-muted w-auto shadow"
-                        type="search" placeholder="Search resources" aria-label="Search" />
+            <p class="text-muted p-1 text">Your source for all the scouting information <br class="d-none d-md-block"> you will ever need</p>
+            <div class="search-bar mt-3">
+                <h4 class="text-navy text mb-2">Search by Title</h4>
+                <form class="d-flex" role="search">
+                    <input id="resource-search" class="text form-control me-2 rounded-pill border-navy text-muted shadow"
+                        style="max-width: 500px;" type="search" placeholder="Search resources" aria-label="Search" />
                 </form>
             </div>
         </section>
-        <div class="row w-100 ">
-            <section class="filters col-lg-3 border-success border-2 border-end">
+        <div class="row w-100 g-0">
+            <section class="filters col-12 col-lg-3 border-success border-2 border-end">
                 <div class="inner p-5">
                     <h5 class="subtitle text-navy">Filters</h5>
                     <hr class="border-success border-3">
@@ -87,14 +87,14 @@
                     <h6 class="subtitle text-navy ">Scout Topics</h6>
                     <div class="scout-topics">
                         <ul class="list-unstyled">
-                            <li class="m-1"><input class="m-1 " type="checkbox" name="Scout-Law" id="Scout-Law"><label
-                                    class="text-navy text" for="Scout-Law">Scout Law</label>
+                            <li class="m-1"><input class="m-1 " type="checkbox" name="values" id="values"><label
+                                    class="text-navy text" for="values">Values</label>
                             </li>
-                            <li class="m-1"><input class="m-1 " type="checkbox" name="values"
-                                    id="values"><label class="text-navy text" for="values">Values</label>
+                            <li class="m-1"><input class="m-1 " type="checkbox" name="lashings"
+                                    id="lashings"><label class="text-navy text" for="lashings">Lashings</label>
                             </li>
-                            <li class="m-1"><input class="m-1 " type="checkbox" name="lashings" id="lashings"><label
-                                    class="text-navy text" for="lashings">Lashings</label>
+                            <li class="m-1"><input class="m-1 " type="checkbox" name="Camp-Setup" id="Camp-Setup"><label
+                                    class="text-navy text" for="Camp-Setup">Camp Setup</label>
                             </li>
                             <li class="m-1"><input class="m-1 " type="checkbox" name="Fires" id="Fires"><label
                                     class="text-navy text" for="Fires">Fires</label></li>
@@ -104,10 +104,10 @@
                     </div>
                 </div>
             </section>
-            <section class="cards col-lg-9 p-5">
+            <section class="cards  col-lg-9 p-5">
                 <div class="cards-scroll">
                     <div class="row g-5 w-100">
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/bowline-knot/bowline-knot.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/bowline-knot/الخلبة.png" class="card-img-top img-fluid"
@@ -130,7 +130,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Diagonal Lashing/diagonal-lashing.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Diagonal Lashing/OIP-3154448422.aNVRh-B6XsU65R_GBsCNegHaEK" class="card-img-top img-fluid" alt="...">
@@ -155,7 +155,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Fires/Fires.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Fires/OIP-2605850932.3DfDpR4qOMbppC8jrmNdIwAAAA" class="card-img-top img-fluid" alt="...">
@@ -180,7 +180,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Fisherman Knot/fisherman-knot.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Fisherman Knot/Fisherman's_knot.png" class="card-img-top img-fluid" alt="...">
@@ -205,7 +205,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Knots/knots.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Knots/OIP-2390335671.NbdtEy6Vj0UgcPMXxx9FSwHaJk" class="card-img-top img-fluid" alt="...">
@@ -238,7 +238,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Lashings/lashings.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Lashings/OIP-3481541464.qwbfngqmvrahabzuslxpnqhaha" class="card-img-top img-fluid" alt="...">
@@ -267,7 +267,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Scout Law/Scout-law.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Scout Law/OIP-206695408.nmhlWgTF46CxAzb1vgCBBgHaHa" class="card-img-top img-fluid" alt="...">
@@ -292,7 +292,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Square Lashing/square-lashing.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Square Lashing/OIP-2325642425.jU4t1F_honIhrqq20nVkOAHaE7" class="card-img-top img-fluid" alt="...">
@@ -317,7 +317,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Star Fire/star-fire.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Star Fire/OIP-2650832126.feDpTzR8ykU7IV00DlyAeQAAAA" class="card-img-top img-fluid" alt="...">
@@ -346,7 +346,7 @@
                                 </div>
                             </a>
                         </div>
-                        <div class="col-md-6 col-lg-4">
+                        <div class=" col-md-6 col-lg-4">
                             <a href="./Content pages/Teepee fire/teepee-fire.html" class="text-decoration-none">
                                 <div class="card shadow-card bg-royal-blue rounded-4 border-whited">
                                     <img src="./Content pages/Teepee fire/OIP-2252237735.7Cv5NMvVU4mxysuo3bILnwHaE8" class="card-img-top img-fluid" alt="...">
