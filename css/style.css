@@ -1,0 +1,187 @@
+/* import montessort and lora font styles */
+:root{
+    --main-text-style:'Montserrat',sans-serif;
+    --secondary-text-style:'Lora',sans-serif;
+    --main-text-color:#1E3151;
+    --main-background-color:#1A237E;
+    scrollbar-width: thin;
+    scroll-behavior: smooth;
+}
+.text-ls{
+    line-height: 1.2;
+}
+@font-face {
+  font-family: 'Montserrat';
+  src: url('../fonts/Montserrat/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Montserrat-italic';
+  src: url('../fonts/Montserrat/Montserrat-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('../fonts/Lora/Lora-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora-italic';
+  src: url('../fonts/Lora/Lora-Italic-VariableFont_wght.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: italic;
+}
+.bg-royal-blue{
+    background-color: var(--main-background-color) ;
+}
+.logo{
+    width: 60px;
+}
+.overlay{
+    background-color: rgba(0, 0, 0, 0.6);
+    inset: 0;
+}
+.bg-form{
+    background-color: #D5D5D5;
+}
+.link{
+    transition: all 0.3s;
+    color: white;
+}
+.link:hover{
+    text-decoration: underline;
+    color: #4854a3cf;
+}   
+.h-80{
+    height: 80%;
+}
+.text-navy{
+    color: var(--main-text-color);
+}
+.border-navy{
+    border-color:#1E3151;
+    border-width: 1px;
+    border-style: solid;
+}
+.title{
+    font-family:var(--main-text-style);
+    font-weight: 700;
+}
+.subtitle{
+    font-family:var(--main-text-style);
+    font-weight:600;
+}
+.lists{
+    font-family:var(--main-text-style);
+    font-weight: 500;
+}
+.text{
+    font-family:var(--secondary-text-style);
+    font-weight: 400;
+}
+.bg-deep-blue{
+    background-color: var(--main-text-color);
+}
+.bg-deep-blue-subtle{
+    background-color: #1B3770;
+}
+.shadow-card {
+  border-radius: 1rem;                
+  box-shadow: 
+    0px 2px 4px rgba(0, 0, 0, 0.1),  
+    0px 8px 16px rgba(0, 0, 0, 0.12);  
+}
+
+.card{
+    width: 300px;
+}
+
+.card:hover{
+    box-shadow: rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+.tags{
+    font-size: 0.75rem;
+}
+.bold-500{
+    font-weight: 500;
+}
+input[type="checkbox"] {
+  accent-color: var(--main-text-color);
+}
+.cards-scroll {
+  max-height: calc(2 * 350px + 2rem); /* 2 rows only (adjust 350px to card height) */
+  overflow-y: auto;
+  padding-right: 0.5rem; /* space for scrollbar */
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+.filters li label{
+    transition: all 0.5s;
+}
+.filters li:hover label,.filters li:hover input{
+    color: #1e37dc;
+    cursor: pointer;
+}
+hr{
+    opacity: 1;
+}
+.smurfs{
+    color:#FF7700 ;
+}
+.smurfs-background{
+     background-color: #FF7700;
+}
+.cubs{
+    color:#FFD400 ;
+}
+.cubs-background{
+    background-color: #FFD400;
+}
+.scouts{
+    color:#0090FF ;
+}
+.scouts-background{
+    background-color: #0090FF;
+}
+.explorers{
+    color:#FF0000 ;
+}
+.explorers-background{
+    background-color: #FF0000;
+}
+.rovers{
+    color:#1C7342 ;
+}
+.rovers-background{
+    background-color: #1C7342;
+}
+.leaders{
+    color:#7223EA ;
+}
+.leaders-background{
+    background-color: #7223EA;
+}
+.stages::after {
+  content: "";
+  width: 150px;
+  height: 2px;
+  background-color: rgb(var(--bs-success-rgb)); /* Bootstrap green */
+  position: absolute;
+  left: 50%;
+  bottom: 0; /* sits at the bottom padding of h3 */
+  transform: translateX(-50%);
+}
+.navbar-toggler-icon {
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='white' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+.navbar-toggler{
+    border-color: none;
+    border-width: 0px;
+}

@@ -5,6 +5,8 @@ lib/
 
 #Ignore devloper-specific files 
 images/
+docs/
+
 
 # Ignore compiled object files
 *.o

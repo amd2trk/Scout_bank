@@ -1,100 +1,109 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" style="height: 100%; margin: 0;">
 
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="This is a responsive web application  designed to serve as a knowledge hub for scouts. It organizes and delivers bilingual content (Arabic and English) related to scouting skills such as knots, first aid, and navigation." >
-    <meta name="author" content="AT">
-    <title> Scout Bank</title>
-    <link rel="icon" type="image/x-icon" href="images/favicon.ico">
-    <link rel="stylesheet" href="CSS/style.css">
-    
+    <link rel="stylesheet" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" href="./css/fontawesome.min.css">
+    <link rel="stylesheet" href="./css/all.min.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" type="image/x-icon" href="/images/favicon_io/favicon.ico">
+    <title>Home</title>
 </head>
 
-<body>
-    <header>
-        <div class="headname">
-            <h1 >Scout Bank</h1>
-                <p> A Site that has all and any informationn about Scouting </p>
-        </div>
-    <div id="searchbar">
-            <form action="/search" method="get">
-                <button type="submit">Search</button>
-                <br>
-                <input type="text" name="q" placeholder="Search">
-            </form>
-    </div>
-    </header>
-    <main> 
-        <div class="skill-card">
-            <a href="https://youtu.be/63U5CxU8WU4?si=5TSTYrej4uypGX92" target="_blank">
-                <figure>
-                    <img class ="skill" src="images/الخلبة.png" alt="عقدة الخلبة">
-                         <figcaption >Jul 24,2025 | 14:03 minutes </figcaption>
-                         <p class="subject"> عقدة الخلبة</p>
+<body class=" d-flex flex-column vh-100 ">
+     <header>
+        <nav class="navbar navbar-expand-lg  bg-royal-blue">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">
+                    <img src="./images/logo-sporting.png" class="logo" alt="">
                 </a>
-                         <ul class="tags">
-                            <li class="tag Knots"> <a href="" target="_blank">Knots</a></li>
-                            <li class="tag Cubs"> <a href="" target="_blank">Cubs</a></li>
-                            <li class="tag Scouts"> <a href="" target="_blank">Scouts</a></li>
-                         </ul>
-                  </figure>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                    data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                        <li class="nav-item p-3">
+                            <a class="nav-link link title" aria-current="page" href="./index.html">Home</a>
+                        </li>
+                        <li class="nav-item p-3">
+                            <a class="nav-link link title" href="#">About</a>
+                        </li>
+                        <li class="nav-item p-3">
+                            <a class="nav-link link title" href="./resource.html">Resources</a>
+                        </li>
+                    </ul>
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item p-3">
+                            <a class="nav-link link title" href="./contact.html">Contact Us <i class="fa-solid fa-envelope"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <main class="d-flex justify-content-center align-items-center flex-grow-1 position-relative container-fluid">
+        <div id="carouselExampleSlidesOnly" class="carousel slide home-page" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active ">
+                    <img src="./images/resized-images/homepage-2.jpg" class="d-block img-fluid object-fit-cover"
+                        alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/resized-images/homepage-3.jpg" class="d-block img-fluid object-fit-cover"
+                        alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/resized-images/homepage-4.jpg" class="d-block img-fluid object-fit-cover"
+                        alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/resized-images/homepage-5.jpg" class="d-block img-fluid object-fit-cover"
+                        alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/homepage/homepage-5.jpeg" class="d-block img-fluid object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/homepage/homepage-6.jpeg" class="d-block img-fluid object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/homepage/homepage-7.jpeg" class="d-block img-fluid object-fit-cover" alt="...">
+                </div>
+                <div class="carousel-item ">
+                    <img src="./images/homepage/homepage-8.jpeg" class="d-block img-fluid object-fit-cover" alt="...">
+                </div>
+            </div>
         </div>
-
-        <div class="skill-card"><a href="">2</a></div>
-        <div class="skill-card"><a href="">3</a></div>
-        <div class="skill-card"><a href="">4</a></div>
-        <div class="skill-card"><a href="">5</a></div>
-        <div class="skill-card"><a href="">6</a></div>
-        <div class="skill-card"><a href="">7</a></div>
-        <div class="skill-card"><a href="">8</a></div>
-        <div class="skill-card"><a href="">9</a></div>
-        <div class="skill-card"><a href="">10</a></div>
-        <div class="skill-card"><a href="">11</a></div>
-        <div class="skill-card"><a href="">12</a></div>
+        <div class="overlay-usage">
+            <div class="row  position-absolute  overlay g-0">
+            <div class="quote col-md-3 d-flex justify-content-center text-white p-5">
+                <h6 class="text fs-5 fst-italic bold-500 text-ls">"Helping young <br> Scouts grow into <br> confident,capable <br> leaders-one article <br> at a
+                    time."</h6>
+            </div>
+            <div class="search-bar col-md-6 p-5 d-flex justify-content-center align-items-start text-center ">
+                <form role="search" class="d-flex flex-column justify-content-center">
+                    <h5 class="align-self-center text-white fs-1 title">Explore</h5>
+                    <input class="form-control me-2 rounded-pill bg-form fs-5 title" type="search" id="search" name="search"
+                        placeholder="Search" aria-label="Search"/>
+                </form>
+            </div>
+        </div>
+        </div>
     </main>
-    <aside class="Scout_bar">
-        <h2>Scout bar</h2>
-        <input type="checkbox" id="Knots" name="Knots" value="Knots">
-        <label for="Knots">Knots</label> <!--read what is id -->
-        <input type="checkbox" id="First Aid" name="First Aid" value="First Aid">
-        <label for="First Aid">First Aid</label> 
-        <input type="checkbox" id="Navigation" name="Navigation" value="Navigation">
-        <label for="Navigation">Navigation</label> 
-        <input type="checkbox" id="Knots" name="Knots" value="Knots">
-        <label for="Knots">Knots</label> 
-        <input type="checkbox" id="Knots" name="Knots" value="Knots">
-        <label for="Knots">Knots</label> 
-        <input type="checkbox" id="Knots" name="Knots" value="Knots">
-        <label for="Knots">Knots</label> 
-        <ul>
-            <li>Knots</li>
-            <li>First Aid</li>
-            <li>Navigation</li>
-            <li>>Camping</li>
-            <li>Survival</li>
-            <li>Nature</li>
+    <footer class="bg-royal-blue d-flex justify-content-center align-items-center ">
+        <ul class="list-unstyled d-flex m-0">
+            <li class="p-3 ps-5 pe-5"><a href=""><i class=" fs-4 fa-brands fa-facebook link text-decoration-none"></i></a></li>
+            <li class="p-3 ps-5 pe-5"><a href=""><i class=" fs-4 fa-brands fa-instagram link text-decoration-none "></i></a></li>
+            <li class="p-3 ps-5 pe-5"><a href=""><i class=" fs-4 fa-solid fa-compass link text-decoration-none "></i></a></li>
         </ul>
-    </aside>
-    <aside class="Leadership_bar">
-        <h2>Leadership bar</h2>
-        <input type="checkbox" name="filter">
-        <ul>
-            <li>Team Building</li>
-            <li>Communication</li>
-            <li>Planning</li>
-            <li>Decision Making</li>
-            <li>Conflict Resolution</li>
-        </ul>
-    </aside>
-    <footer>
-        Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In
-        id cursus mi pretium tellus duis convallis. Tempus leo eu aenean sed diam urna tempor. Pulvinar vivamus fringilla lacus
-        nec metus bibendum egestas. Iaculis massa nisl malesuada lacinia integer nunc posuere. Ut hendrerit semper vel class
-        aptent taciti sociosqu. Ad litora torquent per conubia nostra inceptos himenaeos.
-       
     </footer>
+    <script src="./js/index.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+    <script src="./js/fontawesome.min.js"></script>
 </body>
 
 </html>
