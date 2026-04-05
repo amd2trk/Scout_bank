@@ -29,8 +29,8 @@
 
 | Layer        | Stack                              |
 |--------------|-------------------------------------|
-| Frontend     | HTML, CSS, JavaScript               |
-| Backend      | Node.js                             |
+| Frontend     | Next.js, TailwindCSS, Typescript,React.js    |
+| Backend      | Java SpringBoot                   |
 | Database     | PostgreSQL              |
 | Hosting      | Vercel              |
 | AI Tools     | OpenAI GPT APIs                     |
