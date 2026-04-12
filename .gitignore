@@ -28,3 +28,6 @@ not-used/
 # Ignore system-specific files
 .DS_Store
 Thumbs.db
+
+# Miscellaneous files
+Content pages.zip
