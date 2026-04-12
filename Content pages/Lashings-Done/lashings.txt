@@ -1,0 +1,143 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Structural Engineering, The "Language of Pioneering", Mechanics.
+
+Lashings - الدورات (Pioneering Edition)
+=======================================
+Tags: Engineering | Construction | Pioneering
+------------------------------------------------
+
+الدورات (Lashing) هي جوهر أعمال الريادة الكشفية. لفهم الريادة، تخيل أنها "لغة" نكتب بها الهياكل:
+*   **العقد (Knots) هي "الحروف":** الوحدات الأساسية.
+*   **الربطات (Hitches) هي "علامات الترقيم":** الحرف الكبير الذي يبدأ الجملة (البداية) والنقطة التي تنهيها (القفل).
+*   **الدورات (Lashings) هي "الكلمات":** تجميع الحروف وعلامات الترقيم لإنشاء معنى (هيكل).
+
+يختلف الربط عن العقد في الوظيفة؛ فهو يعتمد على **الاحتكاك والشد (Frapping)** لربط الأجسام الصلبة (الأعمدة) ببعضها البعض لإنشاء هياكل معقدة قادرة على تحمل الأحمال والأوزان.
+
+Lashing is the essence of Scout pioneering. To understand pioneering, imagine it as a "Language" used to write structures:
+*   **Knots are the "Letters":** The basic units.
+*   **Hitches are the "Punctuation":** The Capital Letter that starts the sentence (The Anchor) and the Period that ends it (The Lock).
+*   **Lashings are the "Words":** Combining letters and punctuation to create meaning (Structure).
+
+Lashing differs from knots in function; it relies on **friction and tension (Frapping)** to bind rigid objects (poles) together to create complex structures capable of bearing loads and weights.
+
+[الفئات الثلاث لأعمال الحبال - The 3 Categories of Rope Work]
+-------------------------------
+1.  **العقد (Knots):** من حبل إلى حبل (مثل العقدة الأفقية). المتانة تأتي من الاحتكاك الداخلي. تُستخدم لتمديد الحبال أو إنشاء حلقات.
+    **Knots:** Rope to Rope (e.g., Reef Knot). Reliability comes from internal friction. Used to extend ropes or create loops.
+
+2.  **الربطات (Hitches):** من حبل إلى جسم (مثل عقدة الوتد). تعتمد على الجسم للدعم. تعمل كـ**المرساة** لبدء الدورة و**القفل** لإنهائها.
+    **Hitches:** Rope to Object (e.g., Clove Hitch). Relies on the object for support. Acts as the **Anchor** to start a lashing and the **Lock** to finish it.
+
+3.  **الدورات (Lashings):** حبل يلف عدة أجسام. تحل محل المسامير/البراغي لإنشاء هياكل صلبة.
+    **Lashings:** Rope wrapping multiple objects. Substitutes nails/bolts to create rigid structures.
+
+[الأنواع التقنية للدورات - Technical Types of Lashings]
+-----------------------------
+1.  **الدورة المربعة (Square Lashing):**
+    المفصل الحامل للأحمال. تُستخدم عندما تتقاطع الأعمدة بزاوية 90° وتتلامس. تدعم الوزن الهيكلي.
+    **Square Lashing:** The load-bearing joint. Used when poles cross at 90° and touch. It supports the structural weight.
+
+2.  **دورة المعينة (Diagonal Lashing):**
+    "الدعامة على شكل X". تُستخدم عندما تتقاطع الأعمدة (عادة ليس بزاوية 90°) دون أن تتلامس، أو لمنع الإطار من الالتواء.
+    **Diagonal Lashing:** The "X-Brace". Used when poles cross (usually not at 90°) without touching, or to prevent a frame from twisting (racking).
+
+3.  **الدورة المقصية (Shear Lashing):**
+    تربط عمودين متوازيين من الأعلى ليتمكنا من الفتح كالمقص (الإطار على شكل A). ضرورية لآليات الرفع.
+    **Shear Lashing:** Joins two parallel poles at the top so they can open like scissors (A-Frame). Essential for lifting mechanisms (Shear Legs).
+
+4.  **الدورة اللاشا (Round / Continuous Lashing):**
+    تربط الأعمدة في خط متوازٍ لتمديد الطول (الدائرية) أو تربط عدة عصي صغيرة بإطار (المستمرة) لأسطح الطاولات أو الأسوار.
+    **Round / Continuous Lashing:** Joins poles in a parallel line to extend length (Round) or attaches multiple small sticks to a frame (Continuous) for table tops or fences.
+
+5.  **دورة السيبيا (Tripod Lashing):**
+    تُستخدم لربط ثلاثة أعمدة معاً لإنشاء حامل ثلاثي القوائم للاستقرار والارتفاع.
+    **Tripod Lashing:** Used to bind three poles together to create a tripod stand for stability and height.
+
+[استخدامات الدورات - Uses of Lashings]
+----------------
+1.  **بناء الهياكل:** الخيام، الحوامل الثلاثية، الأبراج، الجسور، والأدوات الكشفية.
+    **Building structures:** Tents, tripods, towers, bridges, and camp gadgets.
+
+2.  **تثبيت الأعمدة:** إبقاء الأعمدة منتصبة أو مثبتة بإحكام معاً.
+    **Securing poles:** Keeping poles upright or firmly together.
+
+3.  **الكشافة والريادة:** أساسية للعمل الجماعي ومهارات البناء.
+    **Scouting and pioneering:** Essential for teamwork and construction skills.
+
+4.  **الملاجئ الطارئة:** إنشاء هياكل سريعة من المواد المتاحة.
+    **Emergency shelters:** Creating quick frameworks from available materials.
+
+====================
+RESOURCES
+====================
+Link: Diagonal Lashing -> ../Diagonal Lashing/diagonal-lashing.html
+Link: Square Lashing -> ../Square Lashing/square-lashing.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** Building Fun, "Lego with Sticks", The Buttons.
+
+Lashings - الدورات (Cub Scout Builder Edition)
+==============================================
+Tags: Building | Fun | Forts
+------------------------------------------------
+
+هل تحبون البناء بالمكعبات (Lego)? الدورات هي نفس الشيء، لكننا نستخدم "العصي والحبال" بدلاً من المكعبات البلاستيكية!
+الربط هو "الغراء السحري" الذي يستخدمه الكشافة للصق الخشب ببعضه وبناء قلاع، خيام، وحتى طاولات للأكل.
+
+Do you love building with Lego? Lashings are the same thing, but we use "Sticks and Rope" instead of plastic bricks!
+Lashing is the "Magic Glue" Scouts use to stick wood together to build forts, tents, and even dining tables.
+
+الدورات (Lashing) هي جوهر أعمال الريادة الكشفية. لفهم الريادة، تخيل أنها "لغة" نكتب بها الهياكل:
+*   **العقد (Knots) هي "الحروف":** الوحدات الأساسية.
+*   **الربطات (Hitches) هي "علامات الترقيم":** الحرف الكبير الذي يبدأ الجملة (البداية) والنقطة التي تنهيها (القفل).
+*   **الدورات (Lashings) هي "الكلمات":** تجميع الحروف وعلامات الترقيم لإنشاء معنى (هيكل).
+
+Lashing is the essence of Scout pioneering. To understand pioneering, imagine it as a "Language" used to write structures:
+*   **Knots are the "Letters":** The basic units.
+*   **Hitches are the "Punctuation":** The Capital Letter that starts the sentence (The Anchor) and the Period that ends it (The Lock).
+*   **Lashings are the "Words":** Combining letters and punctuation to create meaning (Structure).
+
+[ماذا يمكننا أن نبني؟ - What can we build?]
+--------------------
+1.  **القلاع:** نصنع هيكلاً لخيمتك أو مخبأ سري.
+    **Forts:** Make a skeleton for your tent or a secret hideout.
+
+2.  **الأدوات:** نبني رف أحذية أو حامل لحقيبة ظهرك.
+    **Gadgets:** Build a shoe rack or a holder for your backpack.
+
+3.  **سواري الأعلام:** نربط العصي معاً لصنع عمود طويل جداً لعلمك.
+    **Flagpoles:** Tie sticks together to make a super long pole for your flag.
+
+[حقيبة أدوات البناء - The Builder's Toolkit]
+---------------------------------------
+1.  ** الدورة المربعة (The Plus Sign - Square Lashing):**
+    نستخدمها عندما تتقاطع العصي مثل علامة الزائد (+). إنها أقوى غراء لدينا!
+    ** Square Lashing:** Used when sticks cross like a cross (+). It's the strongest glue we have!
+
+2.  **ع دورة المعينة (The X Mark - Diagonal Lashing):**
+    نستخدمها لمنع الصندوق المربع من الاهتزاز. تبدو مثل علامة X كبيرة.
+    ** Diagonal Lashing:** Used to stop a square box from wiggling. It looks like a big X.
+
+3.  **ا الدورة المقصية (The Scissors - Shear Lashing):**
+    تربط عصاتين من الأعلى ليتمكنا من الفتح مثل أرجل تمشي أو مقص مفتوح.
+    **The Scissors - Shear Lashing:** Ties two sticks at the top so they can walk like legs or open like scissors.
+
+4.  ** دورة اللاشا  ( Continuous Lashing):**
+    تربط الكثير من العصي الصغيرة في صف لعمل طاولة أو سور.
+    ** Continuous Lashing:** Ties lots of small sticks in a row to make a table or a fence.
+
+5.  ** دورة السيبيا (Tripod Lashing):**
+    تربط ثلاث عصي معاً لصنع حامل قوي بثلاثة أرجل!
+    ** Tripod Lashing:** Ties three sticks together to make a strong stand with three legs!
+
+====================
+RESOURCES
+====================
+Link: Diagonal Lashing -> ../Diagonal Lashing/diagonal-lashing.html
+Link: Square Lashing -> ../Square Lashing/square-lashing.html
+Link:  -> 
+Link:  -> 
+Link:  -> 
