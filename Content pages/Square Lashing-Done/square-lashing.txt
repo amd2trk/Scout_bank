@@ -1,0 +1,116 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Structural Integrity, Pioneering Mechanics, Load Bearing.
+
+Square Lashing - دورة المربعة (Pioneering Edition)
+==================================================
+Tags: Pioneering | Engineering | Structures
+------------------------------------------------
+
+تعتبر "دورة المربعة" (Square Lashing) العصب الرئيسي لأعمال الريادة الكشفية. تُستخدم حصرياً عندما يتقاطع عمودان بزاوية 90 درجة (أو قريبة منها) ويلامس أحدهما الآخر.
+
+قوة هذه الربطة لا تأتي فقط من الحبل، بل من الاحتكاك. عملية "الخزم" (Frapping) هي الخطوة الحاسمة التي تشد الحبل على نفسه، مما يخلق ضغطاً هائلاً يمنع الأعمدة من الانزلاق تحت الأحمال الثقيلة، مثل الجسور والأبراج.
+
+The Square Lashing is the backbone of Scout pioneering. It is used exclusively when two poles cross at a 90-degree angle (or close to it) and touch each other.
+
+The strength of this lashing comes not just from the rope, but from friction. The "Frapping" turns are the critical step; they tighten the rope against itself, creating immense pressure that prevents the poles from slipping under heavy loads, such as in bridges and towers.
+
+[الخطوات الفنية: المراحل الثلاث - Technical Procedure: The 3 Phases]
+-----------------------------------
+
+1.  **المرساة (The Anchor):**
+    ابدأ بعقدة **الوتد** (Clove Hitch) على العمود الرأسي (أسفل نقطة التقاطع). أدخل الطرف السائب تحت العقدة لنظافة العمل.
+    Start with a **Clove Hitch** on the vertical pole (below the crossing point). Tuck the loose end to make it neat.
+
+2.  **اللف - مرحلة التحميل (The Wrapping - Load Phase):**
+    اصعد بالحبل **فوق** العمود الأفقي، ثم **خلف** العمود الرأسي، ثم **أنزل فوق** العمود الأفقي، ثم **خلف** العمود الرأسي. كرر هذا المسار "المربع" 3 أو 4 مرات. حافظ على الحبال مرصوصة بجانب بعضها وليست متراكمة.
+    Go UP over the horizontal pole, BEHIND the vertical pole, DOWN over the horizontal pole, and BEHIND the vertical pole. Repeat this "square" circuit 3 or 4 times. Keep the ropes neat and side-by-side, not overlapping.
+
+3.  **الخزم - مرحلة الشد (The Frapping - Tightening Phase):**
+    هذه هي الخطوة الأهم. غيّر الاتجاه ولف الحبل **بين** العمودين (فوق اللفات السابقة، ولكن ليس حول الأعمدة نفسها). اسحب بقوة هائلة 2-3 مرات لشد الوصلة تماماً.
+    This is vital. Change direction and wrap the rope **between** the two poles (over the wraps, but not around the poles themselves). Pull as hard as possible 2-3 times to tighten the bond.
+
+4.  **القفل (The Lock):**
+    انتهِ بعقدة **وتد** (Clove Hitch) على العمود الأفقي لتأمين الربطة.
+    Finish with a **Clove Hitch** on the horizontal pole to secure the lashing.
+
+[الاستخدامات - Uses]
+----
+1.  **بناء الهياكل:** ربط الأعمدة للملاجئ، الأبراج، الجسور، وأثاث المخيم.
+    **Building structures:** Join poles for shelters, towers, bridges, and camp furniture.
+
+2.  **مشاريع الريادة:** ضرورية لإنشاء وصلات قوية بزوايا قائمة.
+    **Pioneering projects:** Essential for creating strong right-angled connections.
+
+3.  **الكشافة والتخييم:** تضمن بقاء الأعمدة ثابتة بزاوية 90° لمختلف المشاريع.
+    **Scouting & camping:** Ensures poles remain firmly at 90° for various projects.
+
+====================
+RESOURCES
+====================
+Link: Lashings -> ../Lashings/lashings.html
+Link: Diagonal Lashing -> ../Diagonal Lashing/diagonal-lashing.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** The "Plus" Sign (+), The "Box" Story, Simple Movements.
+
+Square Lashing - الدورة المربعة (Cub Scout Edition)
+===================================================
+Tags: Building | Fun | Cubs
+------------------------------------------------
+
+هل تريد بناء قلعة، أو بوابة، أو حتى طاولة للمخيم؟ إذن أنت بحاجة إلى "علامة الزائد" (+)!
+الربطة المربعة هي الطريقة التي نلصق بها عصا بأخرى لعمل شكل (+). تخيل أنك تلف هدية في صندوق مربع، يجب أن يكون الشريط مشدوداً جداً حتى لا تسقط الهدية!
+
+Do you want to build a castle, a gateway, or a camp table? Then you need the "Plus Sign" (+)!
+The Square Lashing is how we stick one pole to another to make a (+) shape. Imagine you are wrapping a gift in a square box; the ribbon must be super tight so the gift doesn't fall out!
+
+[الرقصة المربعة - كيفية الربط (The Square Dance - How to Tie)]
+-------------------------------
+
+1.  **البداية (Start):**
+    اربط **عقدة الوتد** (Clove Hitch) على العمود الواقف (الشجرة). هذا هو زر الانطلاق!
+    Tie a **Clove Hitch** on the standing pole (The Tree). This is your anchor button!
+
+2.  **المشية - فوق وتحت (The Walk - Over and Under):**
+    خذ الحبل في نزهة حول الحي:
+    *   اذهب **فوق** الخشبة العرضية.
+    *   اذهب **خلف** الشجرة.
+    *   مر **تحت** الخشبة العرضية.
+    *   كرر هذا 3 مرات! سيظهر لك شكل مربع.
+    
+    Take the rope for a walk around the neighborhood:
+    *   Go **OVER** the top log.
+    *   Go **BEHIND** the tree.
+    *   Go **UNDER** the top log.
+    *   Do this 3 times! It looks like a square box.
+
+3.  **حضن الدب - الخزم (The Bear Hug - Frapping):**
+    الآن، لف الحبل **بين** الخشبتين (في الوسط بالضبط). اعصر الخشبتين بقوة مثل "حضن الدب"! هذا ما يجعل الربطة قوية جداً.
+    Now, wrap the rope **BETWEEN** the sticks (in the middle). Squeeze them tight like a bear hug! This makes the knot super strong.
+
+4.  **التوقف (Stop):**
+    اربط عقدة وتد أخرى لتقفل الباب وتنهي العمل.
+    Tie another Clove Hitch to lock the door.
+
+[ماذا يمكننا أن نبني؟ - What Can We Build?]
+----
+1.  **الهياكل والبيوت:** نبني ملاجئ، أبراج، جسور، وطاولات للمخيم!
+    **Structures and Houses:** Build shelters, towers, bridges, and camp tables!
+
+2.  **مشاريع مرحة:** نصنع أشياء رائعة بزوايا قوية لا تتحرك.
+    **Fun Projects:** Make awesome things with strong corners that don't wiggle.
+
+3.  **أدوات المخيم:** نثبت الأعمدة معاً لنصنع أشياء مفيدة في المخيم.
+    **Camp Gadgets:** Hold poles together firmly to make useful camp stuff.
+
+====================
+RESOURCES
+====================
+Link: Lashings -> ../Lashings/lashings.html
+Link: Diagonal Lashing -> ../Diagonal Lashing/diagonal-lashing.html
+Link:  -> 
+Link:  -> 
+Link:  ->

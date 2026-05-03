@@ -1,0 +1,134 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Thermodynamics (Chimney Effect), Foundational Skills, "The Mother of Fires."
+
+Teepee Fire - النار الهرمية (Scout/Rover Edition)
+=================================================
+Tags: Firecraft | Camping | Survival
+------------------------------------------------
+
+The Teepee Fire is considered the "Mother of Fires" in bushcraft. It is the most fundamental fire lay because it utilizes the physics of heat: heat rises, and the cone shape acts as a natural chimney, drawing air from the bottom to feed the flames.
+
+For Scouts and Rovers, the Teepee is rarely the end goal (except for quick boiling); rather, it is the **"Igniter"** used to start more complex, sustainable fires like the Log Cabin for group cooking or the Star Fire for night watch.
+
+تُعتبر النار الهرمية "أم النيران" في الحياة الخلوية. إنها الشكل الأكثر أساسية لإشعال النار لأنها تستغل فيزياء الحرارة: الحرارة ترتفع للأعلى، والشكل المخروطي يعمل كمدخنة طبيعية تسحب الهواء من الأسفل لتغذية اللهب.
+
+بالنسبة للكشافة والجوالة، نادراً ما تكون النار الهرمية هي الهدف النهائي (إلا للغليان السريع)؛ بل هي **"المحرك"** الذي يُستخدم لبدء نيران أكثر تعقيداً واستدامة مثل النار المربعة للطهي الجماعي، أو النار النجمية للحراسة الليلية.
+
+[Technical Construction: The Triangle of Fire]
+----------------------------------------------
+1.  **Preparation:** Clear a 2m circle. Ensure the wind is at your back.
+2.  **Tinder (The Heart):** Place a loose pile of highly flammable material (dry grass, birch bark) in the center.
+3.  **Kindling (The Structure):** Lean small, pencil-sized sticks against each other over the tinder to form a cone. **Crucial:** Leave a "Door" opening on the upwind side for the match and airflow.
+4.  **Fuel (The Outer Layer):** As the fire catches, add wrist-thick logs in the same cone shape.
+5.  **Transition:** Once established, this core can be surrounded by a Log Cabin structure or fed with Star logs.
+
+[البناء الفني: مثلث النار]
+--------------------------
+1.  **التحضير:** نظف دائرة بقطر 2 متر. تأكد أن الرياح تأتي من خلفك.
+2.  **الحرّاق (القلب):** ضع كومة مفككة من مواد سريعة الاشتعال (عشب جاف، لحاء شجر) في المركز.
+3.  **الوقيد (الهيكل):** أسند عيداناً صغيرة (بحجم قلم الرصاص) على بعضها فوق الحرّاق لتشكيل مخروط. **هام جداً:** اترك فتحة "باب" في اتجاه مهب الريح لإدخال عود الثقاب ولتدفق الهواء.
+4.  **الوقود (الطبقة الخارجية):** بمجرد أن تشتعل النار، أضف حطباً بسُمك المعصم بنفس الشكل المخروطي.
+5.  **التحول:** بمجرد استقرار النار الهرمية، يمكن بناء النار المربعة حولها أو تغذيتها بجذوع النار النجمية.
+
+[Uses & Tactical Application]
+-----------------------------
+*   **Rapid Boil:** Concentrates heat at a single peak, ideal for boiling water quickly (Tea/Coffee).
+*   **Lighting:** Provides high flames for maximum visibility (Signaling).
+*   **The Starter:** It is the internal engine used to ignite damp wood in other fire types.
+
+[الاستخدامات والتطبيقات التكتيكية]
+----------------------------------
+*   **الغليان السريع:** تركز الحرارة في قمة واحدة، مما يجعلها مثالية لغلي الماء بسرعة (شاي/قهوة).
+*   **الإضاءة:** توفر لهباً مرتفعاً لأقصى درجات الرؤية (للإشارة).
+*   **بادئ الاشتعال:** هي المحرك الداخلي المستخدم لإشعال الحطب الرطب في أنواع النيران الأخرى.
+
+
+[Safety & Risk Management]
+--------------------------
+1.  **Site Selection:** Clear a 2-meter radius of all flammable debris (leaves, dry grass). Ensure no overhanging branches are directly above the flames.
+2.  **Containment:** Always ring the fire bed with rocks or stones to prevent the fire from creeping along the ground.
+3.  **Fire Control (Sand):** Keep a **bucket of sand** or a shovel and loose earth immediately next to the fire pit. Sand is superior to water for many fires as it smothers the flame by cutting off oxygen without creating scalding steam.
+4.  **Extinguishing Protocol:** To extinguish, do not just dump sand. Sprinkle sand over the embers, stir with a stick to expose hidden hot spots, and cover again until cool to the touch.
+5.  **Leave No Trace:** When finished, the fire site should be restored to its original state. Scatter the cold ashes (if permitted) or pack them out.
+
+[السلامة وإدارة المخاطر]
+------------------------
+1.  **اختيار الموقع:** نظف دائرة نصف قطرها 2 متر  من جميع المواد القابلة للاشتعال (أوراق الشجر، العشب الجاف). تأكد من عدم وجود فروع متدلية مباشرة فوق اللهب.
+2.  **الاحتواء:** أحط مكان النار دائماً بالحجارة لمنع النار من الزحف على الأرض.
+3.  **السيطرة على الحريق (الرمل):** احتفظ **بدلو من الرمل** أو مجرفة وتربة مفككة بجوار حفرة النار مباشرة. الرمل أفضل من الماء في كثير من الحالات لأنه يخنق اللهب بقطع الأكسجين دون تكوين بخار حارق.
+4.  **بروتوكول الإطفاء:** لإطفاء النار، لا تسكب الرمل دفعة واحدة. انثر الرمل فوق الجمر، حركه بعصا لكشف النقاط الساخنة المخفية، ثم غطها مرة أخرى حتى تبرد تماماً.
+5.  **لا تترك أثراً:** عند الانتهاء، يجب إعادة موقع النار إلى حالته الأصلية. انثر الرماد البارد (إذا كان مسموحاً) أو احمله معك للتخلص منه.
+
+---
+
+
+
+====================
+RESOURCES
+====================
+Link: Fires -> ../Fires/Fires.html
+Link: Star Fire -> ../Star Fire/star-fire.html
+Link:  -> 
+Link:  -> 
+Link:  -> 
+
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** The Shape (Tent), The Story (Living inside), Safety.
+
+Teepee Fire - نار الخيمة الهرمية (Cub Scout Edition)
+====================================================
+Tags: Fun | Camping | Cubs
+------------------------------------------------
+
+Do you know the tents of the Native Americans? The Teepee Fire looks exactly like them! It is the favorite fire for Cubs because it looks like a glowing little house made of wood.
+
+We build this fire to stay warm, tell stories, and most importantly, it is the magic fire used for roasting marshmallows! For the fire to work, we must let it breathe, so we don't choke it with too much wood at once.
+
+هل تعرفون خيام الهنود الحمر القديمة؟ النار الهرمية تشبهها تماماً! هي النار المفضلة للأشبال لأنها تبدو كمنزل صغير مضيء مصنوع من الخشب.
+
+نبني هذه النار لنشعر بالدفء ولنحكي القصص حولها، والأهم من ذلك، هي النار السحرية التي نستخدمها لشواء المارشميلو! لكي تنجح النار، يجب أن نسمح لها بالتنفس، فلا نخنقها بالكثير من الخشب مرة واحدة.
+
+[How to Build a Fire House]
+---------------------------
+1.  **The Carpet (Tinder):** Put a fluffy pile of dry leaves or grass in the middle. This is the bed for the baby fire.
+2.  **The Walls (Kindling):** Use small sticks to build a tent over the carpet. Lean them together like a pyramid.
+3.  **The Door:** Don't forget to leave a small open space (a door) so the wind can visit the fire and help it grow.
+4.  **Light it Up:** We light the carpet through the door. The fire climbs up the walls!
+5.  **The Roof (Fuel):** When the fire is strong, we gently add bigger sticks to make the roof stronger.
+
+[كيف نبني منزل النار]
+---------------------
+1.  **السجادة (الحرّاق):** ضع كومة ناعمة من الأوراق الجافة أو العشب في الوسط. هذا هو فراش النار الصغيرة.
+2.  **الجدران (الوقيد):** استخدم عيداناً صغيرة لتبني خيمة فوق السجادة. أسندها على بعضها مثل الهرم.
+3.  **الباب:** لا تنسَ ترك مساحة صغيرة مفتوحة (باب) لكي تدخل الريح وتساعد النار على التنفس والنمو.
+4.  **الإشعال:** نُشعل السجادة من خلال الباب. ستتسلق النار الجدران وتكبر!
+5.  **السقف (الوقود):** عندما تصبح النار قوية، نضيف بلطف عيداناً أكبر لتقوية سقف المنزل.
+
+
+[Cub Scout Safety Rules]
+------------------------
+1.  **The Safety Circle:** Imagine a "Magic Circle" around the fire (about 3 big steps away). No running or playing games inside this circle.
+2.  **The Sand Guard:** Instead of water, we keep a **bucket of sand** standing guard. Sand is the best way to put a fire to sleep because it covers it like a heavy blanket.
+3.  **No Flying Sparks:** Never throw things into the fire (like plastic or leaves) that make it pop or send sparks flying at your uniform.
+4.  **Putting it to Sleep:** When we are done, we use the sand to cover the fire completely. We don't leave until the fire is buried and sleeping safely under the sand.
+5.  **Never Alone:** Fire is a friend only when a Leader is watching. Never start or feed a fire without permission.
+
+[قواعد سلامة الأشبال]
+---------------------
+1.  **دائرة الأمان:** تخيل "دائرة سحرية" حول النار (على بعد 3 خطوات كبيرة). ممنوع الجري أو اللعب داخل هذه الدائرة.
+2.  **حارس الرمل:** بدلاً من الماء، نضع **دلو رمل** حارساً بجانبنا. الرمل هو أفضل طريقة "لتنويم" النار لأنه يغطيها مثل البطانية الثقيلة.
+3.  **منع الشرر الطائر:** لا ترمِ أبداً أشياء في النار (مثل البلاستيك أو الأوراق الخضراء) تجعلها تفرقع وترسل شرراً نحو ملابسك.
+4.  **تنويم النار:** عندما ننتهي، نستخدم الرمل لتغطية النار تماماً. لا نغادر المكان حتى تُدفن النار وتنام بأمان تحت الرمل.
+5.  **لا تكن وحدك أبداً:** النار صديقة فقط عندما يراقبها القائد. لا تشعل النار أو تضع فيها حطباً بدون إذن.
+
+
+
+====================
+RESOURCES
+====================
+Link: Fires -> ../Fires/Fires.html
+Link: Star Fire -> ../Star Fire/star-fire.html
+Link:  -> 
+Link:  -> 
+Link:  ->

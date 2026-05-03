@@ -1,0 +1,97 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Technical properties, Synthetic ropes, Mechanics.
+
+Fisherman's Knot - عقدة السماك (Technical Edition)
+==================================================
+Tags: Knots | Marine | Rescue
+------------------------------------------------
+
+عقدة السماك هي الحل الأمثل عندما تفشل العقد الأخرى. بينما قد تنزلق العقدة الأفقية (Reef Knot) عند استخدام حبال النايلون أو الحبال المبللة، فإن عقدة السماك تعتمد على ميكانيكية "القفل الذاتي".
+تتكون العقدة ببساطة من عقدتين بسيطتين تنزلقان على الحبل لتصطدما ببعضهما البعض. كلما زاد الشد على الحبل، زاد ضغط العقدتين على بعضهما، مما يجعلها مثالية للحبال الزلقة أو الرفيعة ذات القطر المتساوي.
+
+The Fisherman’s Knot is the solution when other knots fail. While a Reef Knot might slip when using nylon or wet ropes, the Fisherman’s Knot relies on a "self-locking" mechanism.
+It essentially consists of two overhand knots that slide along the rope to collide with each other. The more tension applied to the line, the tighter the two knots compress against each other, making it ideal for slippery or thin ropes of equal diameter.
+
+[Technical Applications]
+------------------------
+1.  **Marine & Fishing:** The primary knot for joining fishing lines  or wet natural fibers that become slippery.
+2.  **Climbing (Double Variant):** While the single version is for light loads, the **Double Fisherman's** (Grapevine) is used in rock climbing to create Prusik loops because it is extremely secure.
+3.  **Paracord Crafts:** Used to create adjustable necklaces and bracelets because the knots can slide apart to widen the loop and slide back to tighten it.
+4.  **Safety Note:** This knot is excellent for security but can be very difficult to untie (jams) after bearing a heavy load.
+
+[التطبيقات الفنية]
+------------------
+1.  **البحرية والصيد:** العقدة الأساسية لربط خيوط الصيد  أو الألياف الطبيعية المبللة التي تصبح زلقة.
+2.  **التسلق (النسخة المزدوجة):** بينما تستخدم النسخة الفردية للأحمال الخفيفة، تُستخدم **عقدة السماك المزدوجة** في تسلق الصخور لعمل حلقات الحماية لأنها آمنة للغاية.
+3.  **أعمال الباراكورد:** تُستخدم لصنع القلائد والأساور القابلة للتعديل لأن العقدتين يمكن أن تنزلقا لتوسيع الحلقة وتعودا للتضييق.
+4.  **ملاحظة سلامة:** هذه العقدة ممتازة من حيث الأمان، ولكن قد يكون فكها صعباً جداً (تتعقد) بعد تعرضها لحمل ثقيل.
+
+[Tying Instructions]
+--------------------
+1.  Lay the two rope ends parallel to each other.
+2.  Take the running end of Rope A, wrap it around Rope B, and tie an **Overhand Knot**.
+3.  Take the running end of Rope B, wrap it around Rope A, and tie another **Overhand Knot**.
+4.  Pull the two standing parts in opposite directions. The two knots will slide together until they lock tight.
+
+[تعليمات الربط]
+---------------
+1.  ضع طرفي الحبلين متوازيين بجانب بعضهما.
+2.  خذ الطرف السائب للحبل (أ)، لفه حول الحبل (ب)، واربط **عقدة بسيطة**.
+3.  خذ الطرف السائب للحبل (ب)، لفه حول الحبل (أ)، واربط **عقدة بسيطة** أخرى.
+4.  اسحب الحبلين الطويلين في اتجاهين متعاكسين. ستنزلق العقدتان باتجاه بعضهما حتى تلتحما بإحكام.
+====================
+RESOURCES
+====================
+Link: Knots -> ../Knots/knots.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+
+
+---
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** Sliding, Fishing Fun.
+
+Fisherman's Knot - عقدة السماك (Cub Scout Edition)
+==================================================
+Tags: Fishing | Fun | Crafts
+------------------------------------------------
+
+هل تحب الصيد؟ إذا انقطع خيط الصنارة، كيف تصلحه؟
+عقدة السماك هي عقدة سحرية   لأنها تتكون من عقدتين صغيرتين تجريان نحو بعضهما البعض وتعطيان بعضهما حضناً قوياً! كلما سحبت الحبل أكثر، زاد الحضن قوة.
+
+Do you love fishing? If your fishing line breaks, how do you fix it?
+The Fisherman’s Knot is a magic knot   Because it is made of two little knots that run towards each other and give a big, strong hug! The harder you pull the rope, the tighter the hug becomes.
+
+[When do we use it?]
+--------------------
+1.  **Fishing:** Fixing a broken fishing line so the big fish doesn't get away!
+2.  **Slippery Ropes:** If you have a rope that is smooth and slippery like a snake, this knot stops it from escaping.
+
+[متى نستخدمها؟]
+---------------
+1.  **الصيد:** لإصلاح خيط الصيد المقطوع حتى لا تهرب السمكة الكبيرة!
+2.  **الحبال الزلقة:** إذا كان لديك حبل ناعم وزلق مثل الثعبان، فهذه العقدة تمنعه من الانفلات.
+
+[The Story of the Two Worms - How to Tie]
+-----------------------------------------
+1.  **The Meeting:** Place the two rope ends side-by-side (Imagine they are two worms meeting).
+2.  **Worm A:** The first worm wraps around his friend and ties a knot on himself.
+3.  **Worm B:** The second worm wraps around his friend and ties a knot on himself too.
+4.  **The Hug:** Pull the long ropes! Watch the two knots slide along the rope until they meet and **hug**!
+
+[قصة الدودتين - كيفية الربط]
+----------------------------
+1.  **اللقاء:** ضع طرفي الحبل بجانب بعضهما (تخيل أنهما دودتان تتقابلان).
+2.  **الدودة الأولى:** تلف حول صديقتها وتربط عقدة صغيرة على نفسها.
+3.  **الدودة الثانية:** تلف حول صديقتها وتربط عقدة صغيرة على نفسها أيضاً.
+4.  **الحضن:** اسحب الحبال الطويلة! راقب العقدتين وهما تنزلقان على الحبل حتى تتقابلا وتعطي كل منهما "حضن" للأخرى!
+====================
+RESOURCES
+====================
+Link: Knots -> ../Knots/knots.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+

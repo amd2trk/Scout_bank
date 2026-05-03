@@ -1,0 +1,156 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Efficiency, Fuel Conservation, Bushcraft (The "Survivalist's Fire").
+
+Star Fire - النار النجمية (Scout/Rover Edition)
+===============================================
+Tags: Bushcraft | Survival | Cooking
+------------------------------------------------
+
+تُعرف النار النجمية (Star Fire) أحياناً باسم "نار الكسلان الذكي". لماذا؟ لأنها النار الوحيدة التي لا تتطلب منك تقطيع الحطب إلى قطع صغيرة.
+
+بالنسبة للكشاف والمستكشف، هذه هي **النار الاقتصادية** الأولى. هي مثالية للحراسة الليلية لأنها تتطلب جهداً قليلاً جداً للصيانة؛ فبدلاً من النهوض لإضافة الحطب، أنت ببساطة تدفع الجذوع الطويلة بقدمك نحو المركز. كما أنها ممتازة للطهي لأن الحرارة مركزة في نقطة واحدة (عين الغاز)، مما يمنع احتراق أواني الطهي من الجوانب.
+
+The Star Fire is sometimes known as the "Smart Lazy Man's Fire". Why? Because it is the only fire lay that does not require you to chop wood into small lengths.
+
+For Scouts and Explorers, this is the ultimate **Conservation Fire**. It is perfect for night watch/guard duty because it requires very little effort to maintain; instead of getting up to add wood, you simply push the long logs with your boot toward the center. It is also superior for cooking because the heat is concentrated in a single spot (like a gas burner), preventing camp pots from scorching on the sides.
+
+[البناء الفني - Technical Construction]
+------------------------
+
+1.  **المركز (The Hub):**
+    ابدأ ببناء **نار هرمية** صغيرة قياسية في المنتصف لتكوين قاعدة من الجمر.
+    Start by building a small, standard **Teepee Fire** in the center to establish a coal bed.
+
+2.  **الأشعة (The Spokes):**
+    أحضر 4 إلى 6 جذوع طويلة (كما هي، لا داعي لتقطيعها بالفأس) إلى حفرة النار.
+    Drag 4 to 6 long logs (dragged intact, no need to axe them) to the fire pit.
+
+3.  **الترتيب (Arrangement):**
+    ضع طرفاً واحداً من كل جذع داخل النار المركزية، بحيث تتجه الأطراف الأخرى للخارج مثل أسلاك العجلة أو رؤوس النجمة.
+    Place one end of each log into the central fire, radiating outward like the spokes of a wheel or the points of a star.
+
+4.  **التشغيل (Operation):**
+    كلما احترقت الأطراف الداخلية، ببساطة ادفع الجذوع نحو المركز.
+    As the ends burn away, simply push the logs further into the center.
+
+5.  **التحكم (Regulation):**
+    لزيادة الحرارة، قرّب الجذوع من بعضها. لتقليل الحرارة أو الإطفاء، اسحب الجذوع للخلف بعيداً عن المركز.
+    To increase heat, push logs close together. To decrease heat or extinguish, pull logs apart.
+
+[الاستخدامات والتطبيقات التكتيكية - Uses & Tactical Application]
+-----------------------------
+
+1.  **الطبخ الدقيق (Precision Cooking):**
+    تعمل كموقد غاز ذو حرارة قابلة للتعديل. ادفع الجذوع للداخل لحرارة عالية (للغلي)، واسحبها للخارج قليلاً لحرارة منخفضة (للتسبيك). هي أفضل نار للطبخ باستخدام **القدر الهولندي (Dutch Oven)**.
+    It acts like a gas stove with adjustable heat. Push logs in for high heat (boiling), pull them slightly apart for low heat (simmering). It is the best fire for **Dutch Oven** cooking.
+
+2.  **توفير الوقود (Fuel Conservation):**
+    مثالية لحالات البقاء أو المناطق التي يندر فيها الحطب. فهي تحرق الخشب بالكامل بأقل قدر من الهدر، ولا تحرق أكثر مما تحتاج في وقت واحد.
+    Ideal for survival situations or areas with scarce wood. It burns the wood completely with minimal waste, and you don't burn more than you need at one time.
+
+3.  **الحراسة الليلية (Night Watch):**
+    هي النار القياسية لنوبات الحراسة. توفر ضوءاً خافتاً يدوم طويلاً ولا يفسد رؤيتك الليلية، وتتطلب أقل حركة للصيانة (مجرد دفعة بالحذاء).
+    The standard fire for guard duty. It creates a long-lasting, low light that doesn't ruin your night vision, and requires minimal movement to maintain (just a nudge with a boot).
+
+4.  **الإطفاء السريع (Quick Extinguish):**
+    على عكس النيران ذات طبقات الجمر العميقة، يمكن إطفاء النار النجمية بسرعة كبيرة بمجرد سحب الجذوع المشتعلة وفصلها عن بعضها (إزالة الوقود) وتغطية المركز الصغير بالرمل.
+    Unlike deep coal beds, the Star Fire can be put out very quickly by simply pulling the burning logs apart (removing fuel) and smothering the small center with sand.
+
+[السلامة وإدارة المخاطر - Safety & Risk Management]
+--------------------------
+
+1.  **خطر التعثر (Tripping Hazard):**
+    هذا هو الخطر الأكبر. الجذوع تمتد خارج حفرة النار. حدد المحيط بوضوح أو استخدم جذوعاً بطول مناسب لتجنب تعثر الدوريات التي تمشي في الظلام.
+    This is the biggest risk. The logs extend outside the fire pit. Mark the perimeter clearly or keep the logs short enough to avoid tripping patrols walking in the dark.
+
+2.  **الإخماد (Extinguishing):**
+    اسحب الجذوع المشتعلة بعيداً عن بعضها (فصل الوقود عن الحرارة). انثر **الرمال** فوق الجمر المركزي. لا تطمر الجذوع وهي مشتعلة؛ اكشط الجمر عنها أولاً.
+    Pull the burning logs apart (remove fuel from heat). Sprinkle **sand** over the central coals. Do not bury the burning logs; scrape the embers off them first.
+
+====================
+RESOURCES
+====================
+Link: Fires -> ../Fires/Fires.html
+Link: Teepee Fire -> ../Teepee fire/teepee-fire.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** Visuals (The Sun/Wheel), Patience, Safety (Tripping).
+
+Star Fire - نار النجمة (Cub Scout Edition)
+==========================================
+Tags: Fun | Stories | Light
+------------------------------------------------
+
+النار النجمية هي شمس على الأرض. إنها تبدو مثل نجمة كبيرة أو عجلة عربة قديمة.
+
+الأشبال يحبون هذه النار لأنها نار "بطيئة وهادئة". نحن لا نرمي الخشب فوقها، بل "نُطعمها" ببطء. إنها النار المثالية للجلوس حولها وحكاية القصص، حيث يمكن لكل شبل أن يجلس بين ذراعي النجمة ويشعر بالدفء.
+
+The Star Fire is a sun on the ground. It looks like a big star or an old wagon wheel.
+
+Cubs love this fire because it is a "slow and calm" fire. We don't throw wood on top of it; we "feed" it slowly. It is the perfect fire for sitting around and telling stories, where every Cub can sit between the arms of the star and feel the warmth.
+
+[كيف نبني عجلة النار - How to Build a Fire Wheel]
+---------------------------
+
+1.  **البداية (The Starter):**
+    أولاً، نصنع **نار هرمية** صغيرة في الوسط لرفع الحرارة.
+    First, we make a baby **Teepee Fire** in the middle to get things hot.
+
+2.  **الأشعة (The Rays):**
+    نجد عصي طويلة. نضع طرفاً واحداً في النار والطرف الآخر يشير للخارج، تماماً مثل رسم أشعة الشمس.
+    Find long sticks. Place one end in the fire and the other end pointing out, just like drawing the rays of the sun.
+
+3.  **وقت الطعام (Feeding Time):**
+    تخيل أن النار جائعة. عندما "تأكل" النار أطراف العصي، نعطي العصي دفعة صغيرة نحو الوسط.
+    Imagine the fire is hungry. When the ends of the sticks get eaten by the fire, give them a little push toward the middle.
+
+4.  **الطبخ (Cooking):**
+    هذه النار ممتازة لشواء المارشميلو لأنها لا تملك ألسنة لهب كبيرة ومخيفة، بل جمر ساخن ولطيف في الوسط.
+    This fire is great for roasting marshmallows because it doesn't have big, scary flames, just nice hot coals in the middle.
+
+[متى نستخدم النار النجمية؟ - When do we use the Star Fire?]
+-------------------------------
+
+1.  **ملك المارشميلو (The Marshmallow King):**
+    هذه أفضل نار لشواء المارشميلو أو النقانق! لأن النار صغيرة في الوسط، لن يحترق طعامك، بل ستحصل على حرارة ذهبية ولطيفة.
+    This is the best fire for roasting marshmallows or sausages! Because the fire is small in the middle, you won't burn your food. You get nice, golden warmth.
+
+2.  **دائرة القصص (Story Circle):**
+    لأن النار منخفضة ومسطحة (وليست جداراً عالياً من اللهب)، يمكننا رؤية وجوه الجميع في الدائرة أثناء سرد الحكايات.
+    Because the fire is low and flat (not a high wall of fire), we can see everyone's faces in the circle while telling stories.
+
+3.  **نار "الكسالى" (The "Lazy" Fire):**
+    إذا كنا متعبين بعد رحلة مشي طويلة ولا نريد تقطيع الحطب، نستخدم هذه النار. نجد عصياً طويلة ونترك النار تقوم بالعمل!
+    If we are tired after a long hike and don't want to chop wood, we use this fire. We just find long sticks and let the fire do the work!
+
+[قواعد سلامة الأشبال - Cub Scout Safety Rules]
+------------------------
+
+1.  **فخ التعثر (The Trip Trap):**
+    كن حذراً! العصي تشبه أرجل العنكبوت الممدودة على الأرض. انتبه لخطواتك حتى لا تتعثر وتسقط.
+    Be careful! The sticks are like spider legs sticking out on the ground. Watch your step so you don't trip and fall.
+
+2.  **دلو الرمل (Sand Bucket):**
+    اجعل **دلو الرمل** جاهزاً. إذا أردنا إيقاف النار، نسحب العصي للخلف ونغطي الوسط بالرمل.
+    Keep the **bucket of sand** ready. If we need to stop the fire, we pull the sticks back and cover the middle with sand.
+
+3.  **ادفع، لا ترمِ (Push, Don't Throw):**
+    في هذه النار، لا نلقي الخشب أبداً. نحن فقط ندفعه برفق على الأرض.
+    With this fire, we never throw wood. We only push it gently along the ground.
+
+4.  **ممنوع القفز (No Jumping):**
+    لا تقفز أبداً فوق أذرع النجمة. امشِ حولها بأمان.
+    Never jump over the arms of the star. Walk around them safely.
+
+====================
+RESOURCES
+====================
+Link: Fires -> ../Fires/Fires.html
+Link: Teepee Fire -> ../Teepee fire/teepee-fire.html
+Link:  -> 
+Link:  -> 
+Link:  ->

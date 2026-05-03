@@ -1,0 +1,117 @@
+Knots
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Technical Application, Safety, knot classification.
+
+Knots - العقد الكشفية (Technical Skills)
+========================================
+Tags: Skills | Camping | Rescue
+------------------------------------------------
+
+في مرحلة الكشاف والمتقدم، ننتقل من مجرد "ربط الحبال" إلى فهم "ميكانيكا العقد". العقدة الكشفية الصحيحة هي التي تُربط بسرعة، تصمد تحت الضغط، والأهم من ذلك: **يمكن فكها بسهولة** حتى بعد التحميل الثقيل.
+تُستخدم هذه العقد لربط حبل بحبل آخر (وصل)، أو تقصير الحبال، أو عمل حلقات آمنة للإنقاذ.
+
+In the Scout and Rover stages, we move from simply "tying ropes" to understanding "knot mechanics." A correct Scout knot is one that can be tied quickly, holds fast under pressure, and most importantly: **can be untied easily** even after heavy loading.
+These knots are used for joining two ropes, shortening ropes, or creating safe rescue loops.
+
+[أنواع العقد الأساسية وتطبيقاتها - Essential Knot Types & Applications]
+-------------------------------------
+
+1. **العقدة الأفقية (Reef / Square Knot):**
+   **الاستخدام:** ربط حبلين من *نفس* السُمك. تُستخدم في الإسعافات الأولية (الضمادات) لأنها مسطحة.
+   **Use:** Joining two ropes of *equal* thickness. Used in First Aid (bandages) because it lies flat.
+
+2. **الخلبة (Bowline):**
+   **الاستخدام:** "ملك العقد". تصنع حلقة ثابتة لا تضيق أبداً. ضرورية للإنقاذ والرفع.
+   **Use:** The "King of Knots". Creates a fixed loop that never jams. Essential for rescue and lifting.
+
+3. **التوصيلة (Sheet Bend):**
+   **الاستخدام:** ربط حبلين *مختلفين* في السُمك (مثل حبل رفيع بحبل سميك).
+   **Use:** Joining two ropes of *unequal* thickness (e.g., a thin rope to a thick hawser).
+
+4. **السماك (Fisherman's Knot):**
+   **الاستخدام:** ربط الحبال الزلقة أو المبللة (خيوط الصيد). تتكون من عقدتين تنزلقان لتقفلان على بعضهما.
+   **Use:** Joining slippery or wet ropes (fishing lines). It consists of two sliding knots locking together.
+
+5. **التقصيرة (Sheepshank):**
+   **الاستخدام:** تقصير الحبل دون قطعه، أو تجاوز جزء تالف في منتصف الحبل (عزله).
+   **Use:** Shortening a rope without cutting it, or bypassing a damaged section in the middle of a rope.
+
+6. **المطافي (Rescue Bowline / Fireman's Chair):**
+   **الاستخدام:** نوع من عقدة الخلبة يصنع حلقتين أو أكثر لرفع شخص فاقد للوعي أو إنزال منقذ بأمان.
+   **Use:** A variant of the Bowline that creates two or more loops to hoist an unconscious person or lower a rescuer safely.
+
+7. **السارية (Pole Knot / Mast Hitch):**
+   **الاستخدام:** تثبيت الحبل في عمود أو بدء الدورات (غالباً ما تشير إلى عقدة الوتد في هذا السياق).
+   **Use:** Securing a rope to a pole or starting a lashing (often refers to the Clove Hitch in this context).
+
+8. **العقدة العلوية (Overhead Knot):**
+   **الاستخدام:** العقدة الأساسية البسيطة، تُستخدم لمنع الحبل من الانزلاق أو كأساس لعقد أخرى.
+   **Use:** The basic simple knot, used to prevent rope from slipping or as a foundation for other knots.
+
+====================
+RESOURCES
+====================
+Link: Fisherman Knot -> ../Fisherman Knot/fisherman-knot.html
+Link: Bowline Knot -> ../bowline-knot/bowline-knot.html
+Link:  -> 
+Link:  -> 
+Link:  ->
+
+### Version 2: For Cubs (9-12 Years Old)
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** The "Toolbox", Simple Functions, Fun Names.
+
+Knots - حقيبة أدوات الكشاف (Cub Scout Edition)
+==============================================
+Tags: Fun | Skills | Tools
+------------------------------------------------
+
+الكشاف يحمل "حقيبة أدوات" في جيبه? هذه الأدوات ليست مفكات أو مطارق، بل هي **العقد**!
+كل عقدة هي أداة سحرية تقوم بمهمة خاصة. بعضها يمسك بقوة، وبعضها ينقذ الأرواح، وبعضها يجعل الحبل الطويل قصيراً دون استخدام مقص!
+
+Did you know a Scout carries a "Toolbox" in their pocket? These tools aren't screwdrivers or hammers; they are **Knots**!
+Every knot is a magic tool with a special job. Some hold tight, some save lives, and some make a long rope short without using scissors!
+
+[أصدقائي من الحبال - My Rope Friends]
+-------------------------------------
+
+1. **العقدة الأفقية (Reef Knot):**
+   **المصافحة:** تخيل حبلين يتصافحان. نستخدمها لربط الضمادة على الجرح أو ربط الحذاء.
+   **The Handshake:** Imagine two ropes shaking hands. We use this to tie bandages on a boo-boo or tie our shoes.
+
+2. **الخلبة (Bowline):**
+   **الأرنب:** قصة الأرنب الشهيرة! تصنع حلقة آمنة لسحب صديق من الخطر.
+   **The Rabbit:** The famous Rabbit coming out of the hole! It creates a safe loop to pull a friend out of danger.
+
+3. **التوصيلة (Sheet Bend):**
+   **الأخ الكبير والصغير:** كيف تربط خيطاً رفيعاً بحبل سميك جداً؟ يمسكان بأيدي بعضهما باستخدام هذه العقدة!
+   **Big Brother and Little Brother:** How do you connect a tiny string to a big thick rope? They hold hands using this knot!
+
+4. **السماك (Fisherman's Knot):**
+   **الحضن:** عقدتان تنزلقان لتعطيا بعضهما حضناً كبيراً. تُستخدم لخيوط الصيد الزلقة.
+   **The Hug:** Two knots sliding together to give a big hug. Used for slippery fishing lines.
+
+5. **التقصيرة (Sheepshank):**
+   **التقصير السحري:** هل لديك حبل طويل جداً؟ استخدم هذه العقدة السحرية لثنيه وجعله أقصر دون قطعه!
+   **The Magic Shortener:** Do you have a rope that is too long? Use this magic knot to fold it and make it shorter without cutting it!
+
+6. **المطافي (Rescue Bowline):**
+   **عقدة البطل:** عقدة خاصة يستخدمها رجال الإطفاء والأبطال لحمل الناس إلى بر الأمان.
+   **The Hero's Knot:** A special knot used by firefighters and heroes to carry people to safety.
+
+7. **السارية (Pole Knot):**
+   **المتسلق:** تُستخدم لتثبيت الحبل في سارية العلم ليبقى عالياً.
+   **The Climber:** Used to stick a rope onto a flag pole so it stays up high.
+
+8. **العقدة العلوية (Overhead Knot):**
+   **العقدة الصغيرة:** أبسط عقدة على الإطلاق! تُستخدم لعمل نقطة توقف في الحبل أو البداية لعقد أخرى.
+   **The Little Knot:** The simplest knot ever! Used to make a stop point in the rope or the start of other knots.
+
+====================
+RESOURCES
+====================
+Link: Fisherman Knot -> ../Fisherman Knot/fisherman-knot.html
+Link: Bowline Knot -> ../bowline-knot/bowline-knot.html
+Link:  -> 
+Link:  -> 
+Link:  ->

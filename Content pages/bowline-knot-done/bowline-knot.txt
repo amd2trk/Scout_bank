@@ -1,0 +1,109 @@
+### Version 1: For Scouts, Explorers & Rovers
+**Focus:** Technical application, Rescue scenarios, Pioneering.
+
+Bowline Knot - عقدة الخلبة (Scout/Rover Edition)
+================================================
+Tags: Knots | Pioneering | Rescue
+------------------------------------------------
+
+The Bowline is the cornerstone of outdoor skills, rightly earning the title "King of Knots." For Scouts, Explorers, and Rovers, this is not just a loop; it is a vital rescue tool and an essential component of pioneering projects.
+
+The knot is distinct for being **non-slip** and **non-jamming**. This means the loop maintains its size and will not tighten around an object (like a person's waist during a rescue). Furthermore, no matter how much load or weight it bears, it can be easily untied by "breaking" the collar of the knot. It is extensively used for securing tow lines in high winds, at the end of tow lines, and as a primary safety knot for climbing or rappelling.
+
+تُعتبر عقدة الخلبة الركيزة الأساسية في مهارات الحياة الخلوية، وتستحق بجدارة لقب "ملك العقد". بالنسبة للكشافة والمستكشفين والجوالة، هذه العقدة ليست مجرد حلقة؛ بل هي أداة إنقاذ حيوية وعنصر أساسي في مشاريع الريادة.
+
+تتميز العقدة بأنها **غير قابلة للانزلاق** و**غير قابلة للتعقيد**. هذا يعني أن حجم الحلقة يظل ثابتاً ولا يضيق على الجسم المحيط به (مثل خصر شخص أثناء الإنقاذ). علاوة على ذلك، مهما زاد الحمل أو الوزن عليها، يمكن فكها بسهولة بكسر "طوق" العقدة. تُستخدم بكثرة في تثبيت حبال الشد في الرياح القوية، وفي نهاية حبال الجر، وكعقدة أمان أساسية عند التسلق أو النزول بالحبال.
+
+**[Technical Tying Method]**
+1. Divide the rope into a **Short End** (for tying) and a **Long Part** (the rest of the rope).
+2. Form a loop in the **Long Part** of the rope.
+3. Pass the **Short End** up through the loop.
+4. Pass the **Short End** behind the **Long Part**.
+5. Bring the **Short End** back down into the loop.
+6. Hold the **Short End** and the loop together, then pull the **Long Part** to tighten.
+
+**[طريقة الربط الفنية]**
+1. قسّم الحبل إلى **طرف قصير** (للربط) و**طرف طويل** (باقي الحبل).
+2. اصنع حلقة في **الطرف الطويل** من الحبل.
+3. مرر **الطرف القصير** داخل الحلقة من الأسفل إلى الأعلى.
+4. لف **الطرف القصير** خلف **الطرف الطويل**.
+5. أعد **الطرف القصير** ليدخل الحلقة مرة أخرى (نحو الأسفل).
+6. أمسك **الطرف القصير** مع الحلقة، واسحب **الطرف الطويل** لشد العقدة.
+
+---
+
+[Uses & Applications]
+---------------------
+1.  **Rescue Operations:** The primary use is creating a safe loop around a person's waist to hoist or lower them. It is crucial because the loop **never jams or tightens**, ensuring the victim is not crushed under their own weight.
+2.  **Sailing & Marine:** Used to attach sheets (ropes) to the clew of a sail or to tie mooring lines to rings and posts. It holds fast in wet conditions but remains easy to untie.
+3.  **Pioneering & Anchoring:** Essential for securing guy lines to trees or stakes during bridge building or tower construction. It provides a fixed anchor point that won't slip.
+4.  **Climbing:** The Bowline is a traditional knot for tying into a climbing harness or securing the rope around a natural anchor (like a tree).
+
+[الاستخدامات والتطبيقات]
+------------------------
+1.  **عمليات الإنقاذ:** الاستخدام الرئيسي هو صنع حلقة آمنة حول خصر الشخص لرفعه أو إنزاله. إنها حيوية لأن الحلقة **لا تتعقد ولا تضيق أبداً**، مما يضمن عدم تعرض المصاب للضغط تحت وزنه.
+2.  **الإبحار والملاحة:** تُستخدم لربط الحبال بأطراف الأشرعة أو لربط حبال الإرساء بالحلقات والأعمدة. تثبت بقوة في الظروف الرطبة، لكنها تظل سهلة الفك.
+3.  **الريادة والتثبيت:** ضرورية لتثبيت حبال الشد على الأشجار أو الأوتاد أثناء بناء الجسور أو الأبراج. توفر نقطة ارتكاز ثابتة لا تنزلق.
+4.  **التسلق:** الخلبة عقدة تقليدية لربط الحبل في حزام التسلق أو تثبيت الحبل حول مرساة طبيعية (مثل شجرة).
+
+---
+
+====================
+RESOURCES
+====================
+Video URL: https://www.youtube.com/embed/63U5CxU8WU4?si=NLTn6M7SCa15yn_W
+Link: Fisherman Knot -> ../Fisherman Knot/fisherman-knot.html
+Link: Knots -> ../Knots/knots.html
+
+### Version 2: For Cubs (9-12 Years Old)
+**Focus:** Storytelling (The Rabbit), Simplicity, Fun.
+
+Bowline Knot - عقدة الخلبة (Cub Scout Edition)
+==============================================
+Tags: Knots | Cubs | Skills
+--------------------------------------------
+
+Do you want to learn the song of "The Rabbit and the Tree"? The Bowline is the favorite knot for every smart Cub Scout! It is a magical knot that makes a loop that never shrinks, making it super safe for rescuing friends or tying up a boat so it doesn't float away.
+
+We use the "Rabbit Story" to remember it forever. Imagine the end of the rope is a little **Rabbit**, the long part of the rope is a big **Tree**, and there is a **Hole** (burrow) next to the tree. If you memorize the Rabbit's path, you will be a camping hero and earn the title "King of Knots"!
+
+هل تريد تعلم أغنية "الأرنب والشجرة"؟ عقدة الخلبة هي العقدة المفضلة لكل شبل ذكي! إنها عقدة سحرية تصنع حلقة لا تضيق أبداً، مما يجعلها آمنة جداً لإنقاذ الأصدقاء أو ربط القارب حتى لا يطفو بعيداً.
+
+نستخدم "قصة الأرنب" لنتذكرها دائماً. تخيل أن طرف الحبل هو **أرنب** صغير، والجزء الطويل من الحبل هو **شجرة** كبيرة، وهناك **جحر** بجانب الشجرة. إذا حفظت مسار الأرنب، ستصبح بطل التخييم وتستحق لقب "ملك العقد"!
+
+**[The Rabbit Story - How to Tie]**
+1. **Meet the Characters:** Divide the rope into 2 parts — the **Short End** is the "Rabbit" and the **Long Part** is the "Tree".
+2. **The Hole:** Make a small loop in the Tree (this is the rabbit hole).
+3. **The Rabbit comes out:** The Rabbit (Short End) comes UP out of the hole.
+4. **Around the Tree:** The Rabbit runs AROUND the Tree (Long Part).
+5. **Back Home:** The Rabbit jumps back DOWN into the hole.
+6. **Safe:** Pull tight to keep the Rabbit safe!
+
+**[قصة الأرنب - كيفية الربط]**
+1. **التعرف على الشخصيات:** قسّم الحبل إلى جزأين — **الطرف القصير** هو "الأرنب" و**الطرف الطويل** هو "الشجرة".
+2. **الجحر:** اصنع حلقة صغيرة في الشجرة (هذا هو جحر الأرنب).
+3. **خروج الأرنب:** يخرج الأرنب (الطرف القصير) من الجحر إلى الأعلى.
+4. **حول الشجرة:** يركض الأرنب ويدور حول الشجرة (الطرف الطويل).
+5. **العودة للبيت:** يقفز الأرنب عائداً إلى داخل الجحر (نحو الأسفل).
+6. **الأمان:** اسحب الحبل بقوة لتحافظ على سلامة الأرنب!
+
+====================
+
+[When do we use it?]
+--------------------
+1.  **The Rescue Game:** If a friend falls into a hole (in a game!), we use this knot to pull them up because it won't squeeze their tummy like other knots.
+2.  **Camping Hero:** Use it to tie the tent ropes to the stakes so the wind doesn't blow your tent away.
+3.  **Boats:** Sailors use it to tie their boats to the dock so they don't float away into the ocean.
+
+[متى نستخدمها؟]
+----------------
+1.  **لعبة الإنقاذ:** إذا وقع صديق في حفرة (في اللعبة!)، نستخدم هذه العقدة لسحبه لأعلى لأنها لن تضغط على بطنه مثل العقد الأخرى.
+2.  **بطل التخييم:** استخدمها لربط حبال الخيمة بالأوتاد حتى لا تطير خيمتك بفعل الرياح.
+3.  **القوارب:** يستخدمها البحارة لربط قواربهم بالرصيف حتى لا تنجرف بعيداً في المحيط.
+
+====================
+RESOURCES
+====================
+Video URL: https://www.youtube.com/embed/63U5CxU8WU4?si=NLTn6M7SCa15yn_W
+Link: Fisherman Knot -> ../Fisherman Knot/fisherman-knot.html
+Link: Knots -> ../Knots/knots.html

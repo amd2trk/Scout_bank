@@ -1,0 +1,56 @@
+
+Diagonal Lashing - دورة المعينة / الإشا (Structural Engineering)
+===============================================================
+Tags: Engineering | Pioneering | Stability
+------------------------------------------------
+
+بينما تحمل "الدورة المربعة" الوزن العمودي، فإن **دورة المعينة (Diagonal Lashing)** هي المسؤولة عن **منع الالتواء (Anti-Racking)**.
+تُستخدم هذه الدورة عندما يتقاطع عمودان بزاوية غير قائمة (شكل X) ولا يتلامسان بالضرورة. الهدف الميكانيكي منها هو "سحب" العمودين نحو بعضهما البعض بقوة لإنشاء هيكل صلب لا يهتز. هي العصب الأساسي في تقوية الأبراج والجسور (Cross-Bracing).
+
+While the Square Lashing bears vertical weight, the **Diagonal Lashing** is responsible for **Anti-Racking** (preventing twisting).
+This lashing is used when two poles cross at a non-right angle (X-shape) and do not necessarily touch. Its mechanical goal is to "spring" (pull) the two poles toward each other to create a rigid structure that does not sway. It is the backbone of cross-bracing in towers and bridges.
+
+[Technical Applications]
+------------------------
+1.  **X-Bracing (التقوية المتقاطعة):** Essential for preventing rectangular frames from collapsing into parallelograms (racking).
+2.  **Springing Poles:** used to force two poles together that have a gap between them.
+3.  **Tripods & Trestles:** Often used in the center of a trestle frame to lock the structure's geometry.
+
+[التطبيقات الفنية]
+------------------
+1.  **التقوية المتقاطعة (X-Bracing):** ضرورية لمنع الإطارات المستطيلة من الانهيار والميل (الالتواء).
+2.  **ضم الأعمدة:** تُستخدم لإجبار عمودين متباعدين قليلاً على الالتصاق ببعضهما.
+3.  **الحوامل والركائز:** غالباً ما تستخدم في منتصف إطارات الجسور لتثبيت هندسة الهيكل.
+
+[Technical Procedure: The 3 Phases]
+-----------------------------------
+1.  **The Anchor:** Start with a **Clove Hitch** on one pole (usually the diagonal brace), close to the crossing point.
+2.  **The X-Wrap (Lashing Phase):**
+    *   Wrap the rope 3-4 times around both poles across one diagonal axis (vertical axis of the X).
+    *   Change direction and wrap 3-4 times across the opposite diagonal axis. Ensure the turns lie neatly beside each other.
+3.  **The Frapping (Tightening Phase):**
+    *   Wrap the rope 2-3 times **between** the two poles (over the lashing wraps but not around the poles).
+    *   Pull violently tight. This step converts the lashing from a loose wrap into a clamp.
+4.  **The Lock:** Finish with a **hlaf and half knot** on a pole to secure the lashing.
+
+[الخطوات الفنية: المراحل الثلاث]
+--------------------------------
+1.  **المرساة:** ابدأ بعقدة **الوتد (Clove Hitch)** على أحد الأعمدة بالقرب من نقطة التقاطع.
+2.  **لف الـ X (مرحلة الربط):**
+    *   لف الحبل 3-4 مرات حول كلا العمودين عبر المحور القطري الأول (محور X الأول).
+    *   غيّر الاتجاه ولف 3-4 مرات عبر المحور القطري المعاكس. تأكد من أن اللفات مصفوفة بجانب بعضها بانتظام.
+3.  **الخزم (مرحلة الشد):**
+    *   لف الحبل 2-3 مرات **بين** العمودين (فوق لفات الحبل ولكن ليس حول الأعمدة نفسها).
+    *   اسحب بقوة شديدة. هذه الخطوة تحول الربطة من مجرد لفات إلى "مشبك" ضاغط.
+4.  **القفل:** انتهِ  **بنص فى نص** على أحد الأعمدة لتأمين الربطة.
+
+====================
+RESOURCES
+====================
+Link: Lashings -> ../Lashings/lashings.html
+Link: Square Lashing -> ../Square Lashing/square-lashing.html
+Link:  -> 
+Link:  -> 
+Link:  -> 
+
+

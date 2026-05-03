@@ -1,0 +1,128 @@
+Version 1: For Scouts, Explorers & Rovers
+Fires - النيران
+Tags: Survival | Camping | Skills
+
+النار في الكشافة ليست مجرد مصدر للحرارة؛ إنها مهارة بقاء وتفاعل حيوي بين ثلاثة عناصر: الأكسجين، الحرارة، والوقود (مثلث النار).
+بالنسبة للكشاف والمتقدم، إتقان النار يعني القدرة على إشعالها في الظروف الصعبة والتحكم فيها لغرض محدد (طهي، تدفئة، إشارة).
+
+Fire in Scouting is not just a source of heat; it is a survival skill and a vital reaction between three elements: Oxygen, Heat, and Fuel (The Fire Triangle).
+For Scouts and Rovers, mastering fire means the ability to ignite it in difficult conditions and controlling it for a specific purpose (cooking, heating, signaling).
+
+[استخدامات استراتيجية - Strategic Uses]
+
+الطهي والتنقية: غلي الماء لجعله صالحاً للشرب وطهي الطعام بأمان.
+Cooking & Purification: Boiling water to make it potable and cooking food safely.
+
+البقاء: توفير حرارة للجسم ومنع انخفاض حرارته، والعمل كإشارة استغاثة.
+Survival: Providing core body warmth (Hypothermia prevention) and acting as a distress signal.
+
+نار السمر: قلب المخيم النابض حيث يحدث الترابط وسرد القصص والغناء.
+The Campfire (Ceremonial): The heart of the camp where bonding and "Yarns" (stories) happen.
+
+[أنواع النيران - Types of Fires]
+
+الهرمية (Teepee): لهب عالٍ، حرارة سريعة. البنية الأساسية لجميع أنواع النيران الأخرى.
+Teepee: High flame, quick heat. The starter structure for almost all other fires.
+
+المربعة (Log Cabin): مستقرة، منصة مسطحة. الأفضل لطهي القدور وإنتاج طبقة عميقة من الجمر.
+Log Cabin: Stable, flat platform. Best for cooking pots and producing a deep bed of coals.
+
+النجمية (Star Fire): موفرة للوقود، قليلة الصيانة. مثالية للحراسة الليلية.
+Star Fire: Fuel-efficient, low maintenance. Ideal for night watch.
+
+نار الخندق (Parallel / Trench): محمية من الرياح، توجه الحرارة للأعلى. ممتازة للطهي.
+Parallel / Trench: Protected from wind, directs heat upward. Excellent for cooking.
+
+[البروتوكول: كيفية الإشعال - Protocol: How to Ignite]
+
+إعداد الموقع: قم بتنظيف دائرة نصف قطرها 3 أمتار. احفر حفرة واصنع حلقة نار. تأكد من أن اتجاه الرياح مناسب.
+Site Prep: Clear a 3m radius. Dig a pit and make a fire ring. Ensure wind direction is favorable.
+
+تدريج الوقود: صنف الخشب إلى حراق (يشتعل فوراً)، وقيد (عصي صغيرة)، ووقود (جذوع).
+Fuel Grading: Sort wood into Tinder (ignites instantly), Kindling (small sticks), and Fuel (logs).
+
+البناء: ضع الحراق في المركز. ابنِ نار هرمية صغيرة من الوقيد حولها.
+The Build: Place Tinder in the center. Build a small Teepee fire of Kindling around it.
+
+الإشعال: أشعل الحراق من الجانب المواجه للرياح.
+Ignition: Light the Tinder from the upwind side.
+
+الإطفاء: استخدم الرمل (يُفضل على الماء لنيران الشحوم/الطبخ). حرك الجمر وغطه حتى يبرد.
+Extinguishing: Use Sand (preferred over water for grease/cooking fires). Stir the embers and cover until cold.
+
+[حارس النار - The Fire Keeper]
+
+دوره هو مراقبة النار وتغذيتها عندما تحتاج إلى وقود، وإطفاؤها عندما لا تكون هناك حاجة لها.
+His role is to monitor the fire and feed it when it needs fuel and when it's not needed anymore to extinguish it.
+
+هو الوحيد المسموح له بالدخول داخل حلقة النار ولا أحد غيره.
+He is the only one permitted inside the fire ring and none other than him.
+
+====================
+RESOURCES
+
+Link: Star Fire -> ../Star Fire/star-fire.html
+Link: Teepee Fire -> ../Teepee fire/teepee-fire.html
+Link:  ->
+Link:  ->
+Link:  ->
+
+
+---
+Version 2: For Cubs (9-12 Years Old)
+
+Focus: The "Camp TV", Visual Shapes, Feeding the Fire.
+
+Fires - تلفزيون المخيم (Cub Scout Edition)
+Tags: Fun | Magic | Safety
+
+النار كائن حي وصديق لنا؛ تحتاج إلى رعاية خاصة، و"طعام" لتأكله، ويجب أن نعاملها باحترام حتى لا تؤذينا.
+Fire is a living thing and our friend; it needs special care, "food" to eat, and we must treat it with respect so it doesn't hurt us.
+
+[لماذا نحب النار؟ - Why do we love Fire?]
+
+الطهي: تطهي طعامنا والحلويات مثل المارشميلو وتجعلها لزجة ولذيذة!
+Cooking: It cooks our food & treats such as marshmallow and makes them gooey and delicious!
+
+الدفء: تدفئنا في الليالي الباردة.
+Warmth: It warms us up on cold nights.
+
+القصص: تضيء وجوهنا عندما نروي القصص.
+Stories: It lights up our faces when we tell stories.
+
+[أنواع نيران المخيم - Types of Campfires]
+
+الهرمية (The Teepee): تشبه الخيمة أو المثلث الطويل. تعطينا لهباً كبيراً ومضيئاً وهي الأساس لباقي أنواع النيران.
+The Teepee: It looks like a tall triangle or a tent. It makes big, bright flames and the starter structure for all the fires.
+
+المربعة (The Log Cabin): تشبه الصندوق المربع المصنوع من الخشب. هي قوية وممتازة للطبخ.
+The Log Cabin: It looks like a square box made of wood. It is strong and great for cooking.
+
+النجمية (The Star Fire): تشبه النجمة أو عجلة الدراجة على الأرض. تحترق ببطء وهدوء وتستخدم للحراسة.
+The Star Fire: It looks like a star or a bicycle wheel on the ground. It burns slowly and quietly and used for guard duty.
+
+نار الخندق (Parallel Fire): جذوع مرتبة بشكل متوازٍ، مناسبة للطهي ونار تدوم طويلاً.
+Parallel Fire / النار الخندق: Logs arranged in parallel, suitable for cooking and long-lasting fire.
+
+[كيف نطعم النار - How to Feed the Fire]
+
+الطعام الصغير (الحراق - Tinder): ابدأ بالعشب الجاف الناعم أو الورق. طفل النار يأكل هذا أولاً.
+The small Food (Tinder): Start with soft dry grass or paper. The small fire eats this first.
+
+الطعام المتوسط (الوقيد - Kindling): عصي صغيرة (مثل أقلام الرصاص). أطعمها للنار عندما تكبر قليلاً.
+The medium Food (Kindling): Small sticks (like pencils). Feed this when it grows a little.
+
+الطعام الكبير (الحطب - Fuel): جذوع خشبية كبيرة. لا نضعها إلا عندما تصبح النار قوية!
+The big Food (Fuel): Big logs. Only feed this when the fire is big!
+
+قاعدة السلامة: لا تترك النار وحيدة أبداً. احتفظ بدلو من الرمل قريباً لتنويم النار عندما ننتهي.
+Safety Rule: Never leave the fire alone. Keep a Bucket of Sand nearby to put the fire to sleep when we are done.
+
+====================
+RESOURCES
+====================
+Link: Star Fire -> ../Star Fire/star-fire.html
+Link: Teepee Fire -> ../Teepee fire/teepee-fire.html
+Link:  ->
+Link:  ->
+Link:  ->
