@@ -1,57 +1,36 @@
-# 🏕️ Scout Information Bank
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-### 🌐 Centralized Educational Platform for the Scouting Community
+## Getting Started
 
-**The Scout Information Bank** is an interactive online platform designed to collect, organize, and provide reliable educational content for scouts, leaders, and parents. Built with accessibility and engagement in mind, it offers multilingual resources, AI-powered search, and structured learning materials to support continuous growth within the scouting journey.
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## 🚀 Features
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- 🔍 **AI-Assisted Content Discovery**  
-  Smart search powered by OpenAI for finding the right content quickly.
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-- 📚 **Educational Resource Library**  
-  Includes articles, videos with captions, tutorials (e.g., knots, compass skills), and printable guides.
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-- 🌍 **Multilingual Support**  
-  Arabic and English interfaces for inclusive access.
+## Learn More
 
-- 🧠 **Role-Based Content Management**  
-  Admin dashboard with approval workflow and suggestion box.
+To learn more about Next.js, take a look at the following resources:
 
-- 📱 **Responsive Design**  
-  Works seamlessly across mobile and desktop devices.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
----
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## 🧰 Technology Stack
+## Deploy on Vercel
 
-| Layer        | Stack                              |
-|--------------|-------------------------------------|
-| Frontend     | Next.js, TailwindCSS, Typescript,React.js    |
-| Backend      | Java SpringBoot                   |
-| Database     | PostgreSQL              |
-| Hosting      | Vercel              |
-| AI Tools     | OpenAI GPT APIs                     |
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-
-## 📄 License
-
-[MIT License](LICENSE)
-
----
-
-## 🤝 Contributing
-
-Suggestions, and feedback are welcome!  
-Open an issue  to help improve the platform.
-
----
-
-## 📬 Contact
-
-For questions or collaboration, contact **Ahmed Tarek** at [ahmed.tarek.20032013@gmail.com]
-
-
-
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
