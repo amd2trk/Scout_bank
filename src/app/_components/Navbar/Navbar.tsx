@@ -51,7 +51,7 @@ export default function Navbar() {
                             <NativeSelectOption value="French">French</NativeSelectOption>
                             <NativeSelectOption value="Dutch">Dutch</NativeSelectOption>
                         </NativeSelect></li>
-                        <li><Link href="/contactUs"></Link> Contact Us</li>
+                        <li><Link href="/contactUs">Contact Us</Link></li>
                     </ul>
                 </div>
                 <div className='lg:hidden relative flex justify-between mobile md:flex-col'>
